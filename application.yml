@@ -4,5 +4,7 @@ logging:
       spring:
         cloud:
           samples: DEBUG
+
+    
 fortune:
-  fallbackFortune: Todayx is your lucky day!
+  fallbackFortune: Today is your lucky day!
