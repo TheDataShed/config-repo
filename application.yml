@@ -5,4 +5,4 @@ logging:
         cloud:
           samples: DEBUG
 fortune:
-  fallbackFortune: Today is your lucky day!
+  fallbackFortune: Todayx is your lucky day!
